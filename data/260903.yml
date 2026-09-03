@@ -1,0 +1,59 @@
+about:
+  description: An autonomous agent for deep financial research
+  license: NOASSERTION
+  homepage: 
+  head: ecaed30
+  archived: false
+  latestVersion: v1.0.5
+  collectedAt: 2026-09-03T04:57:37Z
+timeline:
+  created: 2025-10-14
+  lastCommit: 2026-08-04
+  lastRelease: 2026-08-04
+popularity:
+  star: 27569
+  watcher: 165
+  fork: 3410
+  release: 33
+  contributor: 28
+  pullRequest: 148
+  issue: 85
+language:
+  TypeScript: 904192
+  HTML: 9049
+  Shell: 2955
+  JavaScript: 1178
+totalLine: 917374
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 1
+    mergedPR: 0
+    openPR: 1
+    closedIssue: 0
+    openIssue: 1
+    commit: 0
+  last90d:
+    since: 2026-06-05
+    release: 5
+    mergedPR: 4
+    openPR: 8
+    closedIssue: 0
+    openIssue: 3
+    commit: 26
+  last180d:
+    since: 2026-03-07
+    release: 23
+    mergedPR: 15
+    openPR: 41
+    closedIssue: 12
+    openIssue: 20
+    commit: 112
+  last360d:
+    since: 2025-09-08
+    release: 33
+    mergedPR: 39
+    openPR: 64
+    closedIssue: 50
+    openIssue: 35
+    commit: 460

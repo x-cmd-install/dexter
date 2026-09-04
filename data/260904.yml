@@ -7,7 +7,7 @@ about:
   head: ecaed30
   archived: false
   latestVersion: v1.0.5
-  collectedAt: 2026-09-04T19:55:02Z
+  collectedAt: 2026-09-04T20:46:33Z
 timeline:
   created: 2025-10-14
   lastCommit: 2026-08-04
@@ -83,5 +83,48 @@ total:
   openIssue: 35
   commit: 487
 ---
+path: /home/runner/.x-repo/github.com/virattt/dexter
+collectedAt: 2026-09-04T20:46:35Z
+loc:
+  TypeScript:
+    code: 21438
+    comments: 2508
+    blanks: 2807
+    files: 216
+  Json:
+    code: 12307
+    comments: 0
+    blanks: 1
+    files: 3
+  Html:
+    code: 122
+    comments: 0
+    blanks: 6
+    files: 1
+  Sh:
+    code: 81
+    comments: 17
+    blanks: 18
+    files: 1
+  JavaScript:
+    code: 36
+    comments: 4
+    blanks: 1
+    files: 1
+  Tsx:
+    code: 5
+    comments: 1
+    blanks: 2
+    files: 1
+  Markdown:
+    code: 0
+    comments: 824
+    blanks: 368
+    files: 10
+total:
+  code: 34284
+  comments: 3381
+  blanks: 3224
+  files: 233
 ---
 

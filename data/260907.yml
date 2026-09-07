@@ -5,7 +5,7 @@ about:
   head: ecaed30
   archived: false
   latestVersion: "v1.0.5"
-  collectedAt: 2026-09-07T06:15:39Z
+  collectedAt: 2026-09-07T18:15:50Z
 timeline:
   created: 2025-10-14
   lastCommit: 2026-08-04
@@ -13,10 +13,10 @@ timeline:
 popularity:
   star: 27585
   watcher: 165
-  fork: 3408
+  fork: 3409
   release: 33
   contributor: 28
-  pullRequest: 188
+  pullRequest: 189
   issue: 85
 language:
   TypeScript: 904192
@@ -29,7 +29,7 @@ recent:
     since: 2026-08-08
     release: 0
     mergedPR: 0
-    openPR: 2
+    openPR: 3
     closedIssue: 0
     openIssue: 1
     commit: 0
@@ -37,7 +37,7 @@ recent:
     since: 2026-07-09
     release: 3
     mergedPR: 0
-    openPR: 7
+    openPR: 8
     closedIssue: 0
     openIssue: 2
     commit: 2
@@ -45,7 +45,7 @@ recent:
     since: 2026-06-09
     release: 5
     mergedPR: 4
-    openPR: 9
+    openPR: 10
     closedIssue: 0
     openIssue: 3
     commit: 22
@@ -53,7 +53,7 @@ recent:
     since: 2026-03-11
     release: 22
     mergedPR: 14
-    openPR: 42
+    openPR: 43
     closedIssue: 12
     openIssue: 19
     commit: 105
@@ -61,7 +61,7 @@ recent:
     since: 2025-09-12
     release: 33
     mergedPR: 39
-    openPR: 65
+    openPR: 66
     closedIssue: 50
     openIssue: 35
     commit: 460
@@ -69,20 +69,20 @@ recent:
     since: 2024-09-17
     release: 33
     mergedPR: 39
-    openPR: 65
+    openPR: 66
     closedIssue: 50
     openIssue: 35
     commit: 487
 total:
   release: 33
   mergedPR: 39
-  openPR: 65
+  openPR: 66
   closedIssue: 50
   openIssue: 35
   commit: 487
 ---
 path: /home/runner/.x-repo/github.com/virattt/dexter
-collectedAt: 2026-09-07T06:15:40Z
+collectedAt: 2026-09-07T18:15:51Z
 loc:
   TypeScript:
     code: 21438
@@ -128,7 +128,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T06:15:41+00:00
+  collectedAt: 2026-09-07T18:15:51+00:00
   platform:
     darwin/arm64:
       name:  null

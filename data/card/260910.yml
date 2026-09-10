@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.0.5"
   latestRelease: "v1.0.5"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T06:23:38Z
+  collectedAt: 2026-09-10T20:19:59Z
 timeline:
   created: 2025-10-14
   lastCommit: 2026-08-04
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-04
   lastPrerelease: 
 popularity:
-  star: 27591
+  star: 27592
   watcher: 166
   fork: 3410
   release: 33
@@ -86,7 +86,7 @@ total:
   commit: 487
 ---
 path: /home/runner/.x-repo/github.com/virattt/dexter
-collectedAt: 2026-09-10T06:23:39Z
+collectedAt: 2026-09-10T20:20:01Z
 loc:
   TypeScript:
     code: 21438

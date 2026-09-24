@@ -14,12 +14,12 @@ x install dexter
 
 ## Code insight
 
-Total: **33,986** lines of code across **222** files in the top 5 languages.
+Total: **34,164** lines of code across **222** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 21,435 | 2,508 | 2,807 | 216 |
-| Json | 12,307 | 0 | 1 | 3 |
+| TypeScript | 21,452 | 2,517 | 2,806 | 216 |
+| Json | 12,468 | 0 | 1 | 3 |
 | Html | 122 | 0 | 6 | 1 |
 | Sh | 81 | 17 | 18 | 1 |
 | JavaScript | 36 | 4 | 1 | 1 |
@@ -31,27 +31,27 @@ Total: **33,986** lines of code across **222** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.0.6` (2026-09-22)
-- **Last commit**: 2026-09-22
+- **Latest**: `v1.1.0` (2026-09-23)
+- **Last commit**: 2026-09-23
 
 ## Popularity
 
-- **Stars**: 27,615 · **Forks**: 3,414 · **Open issues**: 86 · **Contributors**: 28
+- **Stars**: 27,620 · **Forks**: 3,414 · **Open issues**: 86 · **Contributors**: 28
 
 ## Totals (cumulative)
 
-- **Releases**: 34 · **Merged PRs**: 39 · **Open PRs**: 66 · **Closed issues**: 50 · **Open issues**: 36 · **Commits**: 489
+- **Releases**: 35 · **Merged PRs**: 39 · **Open PRs**: 66 · **Closed issues**: 50 · **Open issues**: 36 · **Commits**: 498
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 1 | 0 | 2 | 0 | 1 | 1 |
-| last60d | 2026-07-25 | 2 | 0 | 5 | 0 | 2 | 3 |
-| 90d | 2026-06-25 | 4 | 2 | 9 | 0 | 3 | 20 |
-| last180d | 2026-03-27 | 20 | 10 | 28 | 12 | 17 | 89 |
-| 360d | 2025-09-28 | 34 | 39 | 66 | 50 | 36 | 462 |
-| last720d | 2024-10-03 | 34 | 39 | 66 | 50 | 36 | 489 |
+| 30d | 2026-08-25 | 2 | 0 | 2 | 0 | 1 | 10 |
+| last60d | 2026-07-26 | 3 | 0 | 5 | 0 | 2 | 12 |
+| 90d | 2026-06-26 | 5 | 1 | 9 | 0 | 3 | 29 |
+| last180d | 2026-03-28 | 21 | 10 | 26 | 12 | 17 | 98 |
+| 360d | 2025-09-29 | 35 | 39 | 66 | 50 | 36 | 471 |
+| last720d | 2024-10-04 | 35 | 39 | 66 | 50 | 36 | 498 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for dexter lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260923.yml` · 2026-09-23T06:55:21Z._
+_Snapshot: `data/card/260924.yml` · 2026-09-24T06:01:02Z._

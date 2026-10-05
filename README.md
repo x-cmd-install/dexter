@@ -36,22 +36,22 @@ Total: **34,164** lines of code across **222** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 27,641 · **Forks**: 3,412 · **Open issues**: 87 · **Contributors**: 28
+- **Stars**: 27,643 · **Forks**: 3,411 · **Open issues**: 87 · **Contributors**: 28
 
 ## Totals (cumulative)
 
-- **Releases**: 35 · **Merged PRs**: 39 · **Open PRs**: 68 · **Closed issues**: 50 · **Open issues**: 37 · **Commits**: 498
+- **Releases**: 35 · **Merged PRs**: 39 · **Open PRs**: 69 · **Closed issues**: 50 · **Open issues**: 37 · **Commits**: 498
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-04 | 2 | 0 | 4 | 0 | 2 | 10 |
-| last60d | 2026-08-05 | 2 | 0 | 5 | 0 | 3 | 10 |
-| 90d | 2026-07-06 | 5 | 0 | 11 | 0 | 4 | 19 |
-| last180d | 2026-04-07 | 19 | 9 | 23 | 9 | 15 | 71 |
-| 360d | 2025-10-09 | 35 | 39 | 68 | 50 | 37 | 465 |
-| last720d | 2024-10-14 | 35 | 39 | 68 | 50 | 37 | 498 |
+| 30d | 2026-09-05 | 2 | 0 | 4 | 0 | 2 | 10 |
+| last60d | 2026-08-06 | 2 | 0 | 6 | 0 | 3 | 10 |
+| 90d | 2026-07-07 | 5 | 0 | 12 | 0 | 4 | 19 |
+| last180d | 2026-04-08 | 19 | 9 | 24 | 9 | 15 | 71 |
+| 360d | 2025-10-10 | 35 | 39 | 69 | 50 | 37 | 465 |
+| last720d | 2024-10-15 | 35 | 39 | 69 | 50 | 37 | 498 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for dexter lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261004.yml` · 2026-10-04T07:10:38Z._
+_Snapshot: `data/card/261005.yml` · 2026-10-05T07:00:54Z._

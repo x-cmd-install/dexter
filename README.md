@@ -36,7 +36,7 @@ Total: **34,164** lines of code across **222** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 28,015 · **Forks**: 3,460 · **Open issues**: 87 · **Contributors**: 28
+- **Stars**: 28,033 · **Forks**: 3,462 · **Open issues**: 87 · **Contributors**: 28
 
 ## Totals (cumulative)
 
@@ -46,21 +46,12 @@ Total: **34,164** lines of code across **222** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-09-25 | 0 | 0 | 6 | 0 | 1 | 0 |
-| 90d | 2026-08-26 | 2 | 0 | 8 | 0 | 2 | 10 |
-| last180d | 2026-05-28 | 9 | 4 | 18 | 0 | 5 | 38 |
-| 360d | 2025-11-29 | 35 | 39 | 70 | 45 | 36 | 419 |
-| last720d | 2024-12-04 | 35 | 39 | 70 | 50 | 37 | 498 |
-
-## Distribution status
-
-Reported by **6** distros on [repology.org](https://repology.org/project/dexter). **2** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.6.3` | ⚠️ outdated |
-| Nix unstable | `0.7.2` | ✅ latest |
+| 30d | 2026-10-26 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-09-26 | 0 | 0 | 6 | 0 | 1 | 0 |
+| 90d | 2026-08-27 | 2 | 0 | 8 | 0 | 2 | 10 |
+| last180d | 2026-05-29 | 9 | 4 | 18 | 0 | 5 | 38 |
+| 360d | 2025-11-30 | 35 | 39 | 70 | 45 | 36 | 419 |
+| last720d | 2024-12-05 | 35 | 39 | 70 | 50 | 37 | 498 |
 
 ## Improve this data
 
@@ -71,4 +62,4 @@ Install metadata for dexter lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:31:10Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T10:29:33Z._
